@@ -1,6 +1,6 @@
-# Glory Age™
 <img src="http://s32.postimg.org/twdvtf9n9/aog.png" alt="Smiley face" height="720" width="1280">
 This game is an mmorpg with sandbox. (Based of Medieval Times.) Made by a team of Luniz Studios! 
+
 
 #Intro:
 By Perry & Jekken
