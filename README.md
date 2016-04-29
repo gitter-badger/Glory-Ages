@@ -1,10 +1,10 @@
 <img src="http://s32.postimg.org/twdvtf9n9/aog.png" height="720" width="1280">
 This game is an mmorpg with sandbox. (Based of Medieval Times.) Made by a team of Luniz Studios! 
 
-#Glory Age
+#Glory Ages
 Intro:
 
-By Perry & Jekken
+By: Perry & Jekken <a href="https://github.com/jekkenmann">Jekken</a>&<a href="https://github.com/jekkenmann">Jekken</a> 
 
 After the fall of the Roman Empire, the greatest empire ever known to Man. There were years of chaos, killing and the rise and fall of tribes and kingdoms that is where the great Romans once ruled. Still the legacy of Rome never dies. But in the start of the middle ages beyond the known world to the harsh lands in the north, people of great size and strength seek new lands to conquer and settle.
 
