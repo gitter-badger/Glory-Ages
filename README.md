@@ -1,4 +1,4 @@
-<img src="http://s32.postimg.org/twdvtf9n9/aog.png" height="720" width="1280">
+<img src="http://s32.postimg.org/twdvtf9n9/aog.png" height="720" width="1400">
 This game is an mmorpg with sandbox. (Based of Medieval Times.) Made by a team of Luniz Studios! 
 
 #Glory Ages
