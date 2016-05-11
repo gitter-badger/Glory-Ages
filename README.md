@@ -19,7 +19,8 @@ Maybe one day you will be the Knight in the shining armour. Welcome to the glory
 We will start an age of glory choose your friends and foes wisely.
 
 # Trello?
-<img src="https://d78fikflryjgj.cloudfront.net/images/50b4ebc64391dc394a38e73aed57f0e2/header-logo.png" height="80" width="30">
+<a href="https://trello.com/b/1vvwUamN/glory-ages-a-medieval-mmo-rpg"<img src="https://elearningcentralia.files.wordpress.com/2014/07/trello-logo-from-website.jpg" height="703" width="237"></a>
+
 
 # License 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Glory Age</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/LunizStudios/Glory-Ages" property="cc:attributionName" rel="cc:attributionURL">Luniz Studios</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/LunizStudios/Glory-Age" rel="dct:source">https://github.com/LunizStudios/Glory-Ages</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://creativecommons.org/licenses/by-nc/4.0/" rel="cc:morePermissions">http://creativecommons.org/licenses/by-nc/4.0/</a>.
