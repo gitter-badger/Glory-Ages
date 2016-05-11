@@ -20,7 +20,7 @@ We will start an age of glory choose your friends and foes wisely.
 
 # Trello?
 <img src="https://elearningcentralia.files.wordpress.com/2014/07/trello-logo-from-website.jpg" height="237" width="703">
-https://trello.com/b/1vvwUamN/glory-ages-a-medieval-mmo-rpg
+<center>https://trello.com/b/1vvwUamN/glory-ages-a-medieval-mmo-rpg</center>
 
 
 # License 
