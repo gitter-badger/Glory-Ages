@@ -2,6 +2,25 @@
 This game is an mmorpg with sandbox. (Based of Medieval Times.) Made by a team of Luniz Studios! 
 
 Intro:
+<h2 class="song-title text-center">
+TextAloud: IVONA Brian22 (UK English) - Voice of Storyline (Glory Ages
+</h2>
+<div id="audio-player" class="col-xs-12 col-sm-10 col-sm-offset-1 text-center">
+<div class="row">
+<iframe allowtransparency="true" scrolling="no" frameborder="no" src="/static/widget/index.html?file=/cdn/72f41a62f093f0d8418f08307b3bb167.mp3&autoplay=true" style="width: 100%; height: 50px" class="picoplayer"></iframe>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="554" height="45" id="picoplayer-old" style="display: none;">
+<param name="movie" value="/static/swf/picoplayer.swf?file=/cdn/72f41a62f093f0d8418f08307b3bb167.mp3"/>
+<!--[if !IE]>-->
+<object type="application/x-shockwave-flash" data="/static/swf/picoplayer.swf?file=/cdn/72f41a62f093f0d8418f08307b3bb167.mp3" width="554" height="45">
+<!--<![endif]-->
+<a href="http://www.adobe.com/go/getflashplayer">
+<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player"/>
+</a>
+<p>Unfortunately, you do not seem to have Flash installed. Click below to
+download the song instead:</p>
+<!--[if !IE]>-->
+</object>
+<!--<![endif]-->
 
 By:  <a href="https://github.com/itsaperrybob">Perry</a> & <a href="https://github.com/jekkenmann">Jekken</a> 
 
