@@ -2,18 +2,6 @@
 This game is an mmorpg with sandbox. (Based of Medieval Times.) Made by a team of Luniz Studios! 
 
 Intro:
-<html>
-<body>
-
-<audio controls>
-  <source src="http://catchmeifyoucan.comlu.com/12908947.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-</body>
-</html>
-
-
 By:  <a href="https://github.com/itsaperrybob">Perry</a> & <a href="https://github.com/jekkenmann">Jekken</a> 
 
 After the fall of the Roman Empire, the greatest empire ever known to Man. There were years of chaos, killing and the rise and fall of tribes and kingdoms that is where the great Romans once ruled. Still the legacy of Rome never dies. But in the start of the middle ages beyond the known world into the harsh lands in the north, the people of great size and strength seek new lands to conquer and settle.
