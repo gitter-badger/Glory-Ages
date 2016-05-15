@@ -11,7 +11,7 @@ These people are known as the Vikings. In the west in the middle of Europe, powe
 
 In the south, into the lands of North Africa and the Middle East, the Arabs are strong in faith and in honour. Their land is big but are always looking for more. To the east, the Baltic and Russian lands are engaged in trade with foreign countries but always looking to push back the north men from their lands and conquer new.
 
-It is your choice to become what you want, a solider, a merchant, a farmer and family man, a bandit, a lord or even a king. Just use your imagination my friend.
+It is your choice to become what you want, a knight, a merchant, a farmer and family man, a bandit, a lord or even a king. Just use your imagination my friend.
 
 You can even build your own claims. Your freedom to make cities and weapons. Choose your life carefully my dear friend. Though it’s your desire.
 
