@@ -18,7 +18,7 @@ Maybe one day you will be the Knight in the shining armour. Welcome to the glory
 We will start an age of glory, choose your friends and foes wisely.
 
 # Trello?
-<img src="https://elearningcentralia.files.wordpress.com/2014/07/trello-logo-from-website.jpg" height="128" width="128">
+<img src="https://elearningcentralia.files.wordpress.com/2014/07/trello-logo-from-website.jpg" height="170" width="170">
 <center>https://trello.com/b/1vvwUamN/glory-ages-a-medieval-mmo-rpg</center>
 
 # Want to get in touch?
