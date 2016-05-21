@@ -21,7 +21,8 @@ We will start an age of glory, choose your friends and foes wisely.
 <img src="https://elearningcentralia.files.wordpress.com/2014/07/trello-logo-from-website.jpg" height="237" width="703">
 <center>https://trello.com/b/1vvwUamN/glory-ages-a-medieval-mmo-rpg</center>
 
-# Wanna get contact on us? #IRC
+# Want to get in touch?
+Join our IRC-Channel:
 [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.kiwiirc.com/gloryagesteam.png)](https://kiwiirc.com/client/irc.kiwiirc.com/?#gloryagesteam)
 
 # License 
